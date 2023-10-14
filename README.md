@@ -1,16 +1,1 @@
-# flutter_translate_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Android Emulator - Pixel_4a_API_34_5554 10_14_2023 12_35_55 PM](https://github.com/Elshan2022/Translate-Application/assets/97118009/94a704c3-d294-402b-8a2f-4452f0a3d4bc)
